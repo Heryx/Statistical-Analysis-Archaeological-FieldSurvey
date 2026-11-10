@@ -39,7 +39,7 @@ The notebook was developed with Python 3.10 and needs:
 - `scikit-posthocs`
 - `jupyter`
 
-**[TODO: add the exact package versions, e.g. from `pip freeze`, or a `requirements.txt`.]**
+**[soon `requirements.txt`.]**
 
 ## Data
 
@@ -48,8 +48,7 @@ The notebook expects two shapefiles, whose paths are set in the configuration ce
 - survey points: `SHP/UT_lastunion/UT_union_noduplicate_centroide.shp`
 - restricted area polygon: `SHP/UT_lastunion/area_restrizione_indagine_pol.shp`
 
-**[TODO: state where the data are available (repository folder, Zenodo record or DOI) and under
-which licence.]**
+**[Note]**
 
 Field names are those stored in the shapefiles; the notebook includes a table describing them.
 
