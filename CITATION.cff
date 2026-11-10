@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Statistical-Analysis-Archaeological-FieldSurvey": a Geostatistical workflow for Archaeological Field data"
+type: software
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+authors:
+  - family-names: Guarino
+    given-names: Giuseppe
+repository-code: "https://github.com/Heryx/Statistical-Analysis-Archaeological-FieldSurvey.git"
+keywords:
+  - rchaeology
+  - field-survey
+  - statistics
+  - jupyter-notebook
+  - geopandas
+  - python
+  - reproducible-research
