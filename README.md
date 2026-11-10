@@ -1,4 +1,4 @@
-# Suasa 2023 Survey — Statistical Analysis
+# Archaeological Field Survey — Statistical Analysis
 
 Jupyter notebook for the statistical analysis of the 2023 field survey at Suasa. It examines how
 surveyor, ground visibility and weather conditions relate to the recorded finds (`MAT` and
