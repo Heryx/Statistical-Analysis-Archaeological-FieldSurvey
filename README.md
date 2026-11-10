@@ -1,6 +1,6 @@
 # Archaeological Field Survey — Statistical Analysis
 
-Jupyter notebook for the statistical analysis of the 2023 field survey at Suasa. It examines how
+Jupyter notebook for the statistical analysis of the 2023 field survey at the archaeological site of Suasa (AN). It examines how
 surveyor, ground visibility and weather conditions relate to the recorded finds (`MAT` and
 common ware, `CCom`), on the whole dataset and on a restricted area corresponding to a
 hypothesised suburban villa.
